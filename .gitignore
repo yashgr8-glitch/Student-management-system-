@@ -1,0 +1,12 @@
+node_modules/
+dist/
+build/
+.env
+*.env
+!.env.example
+*.o
+*.out
+*.exe
+.DS_Store
+.idea/
+.vscode/
